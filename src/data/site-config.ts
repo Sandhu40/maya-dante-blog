@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: "Hi, I'm Maya – a Social Worker!",
-        text: "I write about my studies, ASYE, and life in practice.",
+text: "I share honest reflections on my social work journey – from university assignments and placement experiences to ASYE challenges, time management, supervision, direct work with children and families, and real life on the frontline – in a calm, practical way to help other students and new social workers feel less alone and more confident.",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
