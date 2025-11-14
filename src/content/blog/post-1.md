@@ -6,6 +6,7 @@ tags:
   - ASYE
   - Early Career
   - Reflection
+isFeatured: true
 seo:
   image:
     src: '../../assets/images/post-1.jpg'

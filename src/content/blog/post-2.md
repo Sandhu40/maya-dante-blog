@@ -6,6 +6,7 @@ tags:
   - Placement
   - Students
   - Reflection
+isFeatured: true
 seo:
   image:
     src: '../../assets/images/post-2.jpg'
