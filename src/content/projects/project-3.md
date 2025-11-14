@@ -1,64 +1,86 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
+title: "First Local Authority Placement – Learning the Basics"
+description: "I spent my first placement in a local authority children’s team, learning how assessments, home visits and multi-agency meetings work in real life."
+publishDate: 'Nov 11 2025'
 isFeatured: true
 seo:
   image:
     src: '../../assets/images/project-3.jpg'
+    alt: Social worker walking through a housing estate
 ---
 
-![Project preview](../../assets/images/project-3.jpg)
+![Social worker walking through a housing estate](../../assets/images/project-3.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+This practice highlight focuses on my first social work placement in a local authority children’s team. It was the first time I saw how assessments, visits and multi-agency work actually look and feel in day-to-day practice, beyond lectures and textbooks.
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+All examples are anonymised and details have been changed to protect confidentiality.
 
-## Objectives
+## Placement setting
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+The placement was in a busy children’s services team covering a mixed urban area. The team worked with children in need, children on child protection plans and, at times, children who were looked after away from home.
 
-## Features
+As a student I was not responsible for cases on my own, but I was increasingly involved in visits, recording and meetings alongside my practice educator and other workers.
 
-1. **AI-Powered Recipe Recommendations:**
+## Learning objectives
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+Going into the placement, my main aims were to:
 
-2. **Ingredient Scanner and Inventory Management:**
+1. Understand how social workers gather information and complete assessments in real families’ homes  
+2. Observe different communication styles with children, parents and carers  
+3. Learn how social workers work alongside schools, health and other agencies  
+4. Build confidence using the case recording system and local procedures  
+5. Begin to apply theory, legislation and values in live situations, not just in essays
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+These aims helped to guide supervision sessions and the types of tasks I was given.
 
-3. **Step-by-Step Cooking Guide:**
+## Key experiences
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
+Some of the most important learning experiences included:
 
-4. **Nutritional Insights and Meal Planning:**
+- Shadowing home visits and seeing how social workers balanced warmth with curiosity and clear boundaries  
+- Observing child in need and child protection meetings and noticing how information was shared and decisions were made  
+- Writing up visit notes and short pieces of assessment, then receiving feedback on clarity, tone and analysis  
+- Sitting in on strategy discussions and seeing how risk was considered with police, health and other professionals  
+- Taking part in direct work with children using simple tools, games and drawings to help them express feelings
 
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
+These experiences began to turn theory into something more concrete and practical.
 
-5. **Voice-Activated Assistance:**
+## Skills developed
 
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
+By the end of the placement I had grown in several areas.
 
-## Technology Stack
+- Communication: asking clearer questions, listening more actively and explaining my role more confidently  
+- Recording: writing more balanced notes that included both strengths and worries, as well as my own analysis  
+- Planning: breaking tasks down into manageable steps and understanding how visits, meetings and recording fit together  
+- Professional curiosity: feeling more able to notice when something did not sit right and bring this to supervision  
+- Self-reflection: thinking about how my own experiences and feelings might influence my responses in practice
 
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
+There was still a lot to learn, but the placement gave me a solid foundation.
 
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
+## Challenges and how I managed them
 
-## Outcome
+The placement was not always easy. I found some aspects particularly challenging:
 
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
+- Feeling overwhelmed by the volume of information and the pace of the work  
+- Worrying about asking too many questions or slowing colleagues down  
+- Hearing difficult stories and not always knowing how to process the emotional impact  
+- Learning to use a complex recording system while also trying to focus on the human side of the work
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Supportive supervision, informal chats with colleagues and regular reflection helped me manage these challenges. It was reassuring to learn that many workers had felt the same way when they first started.
+
+## Impact on my later practice
+
+This first placement continues to influence how I practise now.
+
+It helped me to:
+
+- See the importance of preparation before visits and meetings  
+- Understand how much families notice about our body language, tone and reliability  
+- Appreciate the value of good recording, not just for the organisation but for children and families who may one day read their files  
+- Recognise that social work is truly a team effort, not something done alone
+
+Later placements and my ASYE year built on this foundation, but this first local authority experience is where many of the basics really started to make sense.
+
+## Looking back
+
+Looking back, this placement was a steep learning curve, but it confirmed for me that social work was the right path. It gave me a first real picture of what the work involves, beyond headlines and assumptions, and showed me both the demands and the quiet rewards of being alongside children and families in difficult times.
