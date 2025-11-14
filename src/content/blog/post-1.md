@@ -1,9 +1,11 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+title: "Starting My ASYE: First-Week Reflections as a Newly Qualified Social Worker"
+excerpt: "My first week as an ASYE social worker was a mix of excitement, fear and imposter syndrome. In this post I share what the first few days really felt like, what helped, and what I wish I had known before I started."
+publishDate: 'Nov 11 2025'
 tags:
-  - Guide
+  - ASYE
+  - Early Career
+  - Reflection
 seo:
   image:
     src: '../../assets/images/post-1.jpg'
@@ -12,36 +14,74 @@ seo:
 
 ![A person standing at the window](../../assets/images/post-1.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+The move from student to newly qualified social worker can feel huge. One day you are writing assignments and talking about theory; the next you are sitting at a desk with a work laptop, a case management system, and real families waiting to meet you.
 
-In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
+My first week on the ASYE programme was full of mixed emotions: pride at finally qualifying, worry about getting things wrong, and tiredness from taking in so much information. In this post I want to share what that first week felt like, what helped me cope, and what I wish I had known in advance.
 
-## Advantages of Working from Home
+## Before day one: expectations and reality
 
-1. **Flexibility:** One of the most significant advantages of remote work is the flexibility it offers. Employees can often set their own hours, which can be particularly beneficial for those with family responsibilities or other commitments.
+Before I started, I imagined my first week would be mostly shadowing and observing. I thought I would quietly sit in the background while more experienced social workers did the real work.
 
-2. **Reduced Commute:** Eliminating the daily commute not only saves time but also reduces stress and expenses associated with transportation. This can lead to better mental health and increased job satisfaction.
+Some of that happened, but there were also a few surprises:
 
-3. **Cost Savings:** Working from home can result in significant cost savings. Employees can save money on transportation, work attire, and daily meals, which can have a positive impact on their overall financial well-being.
+- A lot of information very quickly
+- Meeting many new people across the service
+- Hearing about real cases from the first day
 
-4. **Increased Productivity:** Many people find that they are more productive when working from home. The absence of office distractions and the ability to create a personalized work environment can lead to improved focus and efficiency.
+I realised quickly that it is normal to feel overwhelmed in the first week. It does not mean you are failing. It means the role is complex and you care about getting it right.
 
-5. **Work-Life Balance:** Remote work allows for better work-life balance. Employees can better manage their personal and professional lives, leading to reduced burnout and increased job satisfaction.
+## The first few days in the team
 
-> Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor.
+My first days followed a similar pattern.
 
-## Disadvantages of Working from Home
+1. Introductions and induction  
+   A tour of the building, basic health and safety information, and an overview of the team structure. I could not remember every name, but I noticed who felt approachable and supportive.
 
-1. **Isolation:** Remote work can be lonely. The absence of coworkers and face-to-face interaction can lead to feelings of isolation and loneliness, which may negatively impact mental health.
+2. Systems and IT  
+   Logging into the case management system, email, shared drives and e-learning. It was tiring but important, because these systems are how we record our work and communicate with others.
 
-2. **Difficulty in Communication:** Effective communication can be a challenge when working remotely. Misunderstandings, lack of clear communication, and delayed responses can hinder teamwork and collaboration.
+3. Shadowing visits and meetings  
+   I observed home visits, child protection conferences and professionals meetings. My main role was to watch, listen and think about how experienced workers communicated with children, carers and other professionals.
 
-3. **Work-Life Boundaries:** While remote work can improve work-life balance, it can also blur the lines between work and personal life. It can be challenging to establish clear boundaries, leading to overwork and burnout.
+By the end of the week, I had not done everything perfectly, but I had a much clearer picture of how the team worked and what would be expected of me over the next few months.
 
-4. **Technology Issues:** Technical problems, such as internet connectivity issues or software glitches, can disrupt work and cause frustration.
+## Feelings in the first week
 
-5. **Distractions:** Working from home can be riddled with distractions, ranging from household chores to noisy neighbors. Maintaining focus can be a constant struggle for some.
+Emotionally, the first week of ASYE can be a rollercoaster. Some of the feelings that came up for me were:
 
-6. **Career Growth:** Some employees may feel that working remotely limits their opportunities for career advancement, as they may have less visibility within the organization.
+- Relief that I was finally starting in a real role
+- Anxiety about making mistakes or missing something important
+- Imposter syndrome, especially when listening to experienced workers
+- Hope that, with the right support, I would grow into the role
 
-While it offers flexibility, cost savings, and improved work-life balance, it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers.
+It helped to remember that everyone in the team had once been newly qualified, even if they now seemed very confident and experienced.
+
+## What helped me cope
+
+A few simple things made a big difference during that first week.
+
+- Asking small, clear questions rather than pretending I understood everything  
+- Writing things down during induction sessions and immediately after visits  
+- Checking how to do tasks on the system instead of guessing  
+- Making time after work to rest properly and switch off from the role  
+- Talking honestly to my practice educator or manager about how I was feeling
+
+I also tried to focus on progress, not perfection. Learning the role is a process, and it is okay not to know everything in week one.
+
+## What I wish I had known before starting ASYE
+
+Looking back, there are a few things I wish I had known earlier.
+
+- Feeling overwhelmed in the first week is very common and usually settles with time  
+- It is better to ask for support early than to struggle in silence  
+- No one expects you to be a fully independent practitioner in your first few weeks  
+- Reflection is part of the job, not an extra task to squeeze in at the end of the day
+
+If you are about to start your own ASYE, it is okay to feel nervous. You do not have to be perfect. Focus on being open to learning, honest about what you need, and kind to yourself as you adjust.
+
+## Final thoughts
+
+The first week of ASYE is only the beginning of your journey as a social worker. You will not remember every policy or procedure straight away, but you will remember how supported you felt, how you treated the people you met, and how you spoke to yourself when things felt difficult.
+
+My hope in sharing these reflections is that other students and newly qualified workers feel a little less alone and a little more prepared for their own first week in practice.
+

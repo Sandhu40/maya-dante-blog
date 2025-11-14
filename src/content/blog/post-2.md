@@ -1,10 +1,11 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: "What I Wish I Knew Before My First Social Work Placement"
+excerpt: "Starting a first social work placement can feel exciting and frightening at the same time. Here I share what the experience was really like, what helped me settle in, and a few things I wish I had known before I walked through the office doors."
+publishDate: 'Nov 11 2025'
 tags:
-  - Web
-  - Web development
+  - Placement
+  - Students
+  - Reflection
 seo:
   image:
     src: '../../assets/images/post-2.jpg'
@@ -13,58 +14,102 @@ seo:
 
 ![Half open laptop on a desk](../../assets/images/post-2.jpg)
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+Starting a first social work placement is a big step. Up to this point, most of the work has been lectures, reading and assignments. Placement is where theory meets real people, real homes and real situations. It can be exciting, but it can also feel overwhelming and confusing.
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+When I began my first placement, I expected to feel nervous, but I did not realise how much my confidence would go up and down in a single week. Some days I felt proud of myself, and other days I felt like I knew nothing. Looking back, there are several things I wish I had known earlier.
 
-## 1. Showcase a Diverse Range of Projects
+## Getting ready before you start
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+Before placement begins, it is easy to focus only on forms, checks and practical details. Those are important, but it also helps to prepare yourself mentally.
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+A few things that helped me were:
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+- Reading the placement handbook slowly and making notes of any questions
+- Reminding myself that I am still a student and not expected to know everything
+- Thinking about my values and why I chose social work in the first place
+- Planning small routines to look after myself, like walks, meals and sleep
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+You do not have to have every policy memorised. You just need to be open to learning and willing to ask for help.
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+## The first week in the team
 
-## 2. Highlight Your Coding Skills
+The first week can feel like information overload. New names, new systems, new procedures and new acronyms can all blur together. It is normal if you do not remember everything.
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
+My first days looked something like this:
 
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
+1. Meeting my practice educator and supervisor  
+   We talked about learning needs, expectations and how often we would meet for supervision.
 
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
+2. Induction to the office  
+   A tour of the building, an overview of health and safety, and introductions to the wider team.
 
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
+3. Systems and paperwork  
+   Logging in to the case recording system, email, online training and local procedures.
 
-## 3. Emphasize Responsive Design
+4. Shadowing visits and meetings  
+   Watching how social workers spoke with children, parents, carers and other professionals.
 
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
+At the time it felt like a lot, but after a couple of weeks, the environment started to feel more familiar.
 
-## 4. User Experience (UX) Matters
+## Managing nerves and self-doubt
 
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
+Almost every social work student I have met has felt some level of self-doubt in placement. It often shows up as thoughts like:
 
-## 5. Document Your Projects
+- Everyone else knows more than me
+- I am not ready for real cases
+- If I ask questions people will think I am not good enough
 
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
+In reality, asking questions is a strength, not a weakness. It shows that you care about doing the right thing and that you want to learn. Most practice educators would much rather you ask than assume.
 
-## 6. Regularly Update Your Portfolio
+Simple things that helped me manage self-doubt included:
 
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
+- Keeping a small notebook and writing down tasks, questions and reflections
+- Talking honestly in supervision about what I was finding hard
+- Celebrating small wins, like making a helpful phone call or completing a piece of recording
+- Reminding myself that feeling nervous is normal when doing something new
 
-## 7. Test and Optimize Load Times
+## Building relationships in placement
 
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
+Social work is built on relationships. This includes relationships with children and families, but also with colleagues and other professionals.
 
-## 8. Seek Feedback
+In placement, I tried to:
 
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
+- Say hello to colleagues each day and learn names over time
+- Offer simple help, such as printing documents or making a call when appropriate
+- Listen carefully in team meetings, even when I did not feel confident enough to speak much
+- Be polite and respectful with everyone, including administrative staff and reception
 
-## 9. Personalize Your Portfolio
+These small actions helped me feel more a part of the team and less like an outsider.
 
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
+## Learning from observation and reflection
 
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+In the early weeks, most of my learning came from observing others and then reflecting afterwards. It helped to ask myself questions like:
+
+- How did the worker introduce themselves and explain their role?
+- What kind of questions did they ask the child or family?
+- How did they manage difficult or emotional moments in the visit?
+- What did I notice about body language, tone of voice and timing?
+
+Writing a short reflection after visits or meetings, even a few lines, made it easier to link practice back to theory and values. It also gave me examples to use later in assignments and portfolios.
+
+## Looking after yourself
+
+Placement can be emotionally draining, especially when you hear difficult stories or witness distress. It is important to look after your own wellbeing as well as others.
+
+Some simple self-care ideas include:
+
+- Having a clear end to the workday where possible, and not checking emails all evening
+- Talking to someone you trust about how you are feeling, without breaching confidentiality
+- Using supervision to discuss emotional impact, not just tasks and deadlines
+- Making time for things you enjoy outside of social work, such as hobbies, exercise or time with friends
+
+You cannot pour from an empty cup. Taking care of yourself helps you to stay present and grounded for the people you support.
+
+## Final thoughts
+
+If you are about to start your first social work placement, it is completely normal to feel unsure. You are stepping into real practice for the first time, and that takes courage.
+
+You do not have to be perfect. You do not have to know everything. You simply need to show up, be willing to learn, be honest about what you do not understand, and treat people with respect and compassion.
+
+Placement is not just about proving yourself to others. It is also a chance to find your own social work identity, understand your strengths and limits, and begin to see how you want to practise in the future.
+
