@@ -39,7 +39,7 @@ const pages = defineCollection({
 });
 
 const projects = defineCollection({
-    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/practice-highlights' }),
     schema: ({ image }) =>
         z.object({
             title: z.string(),
