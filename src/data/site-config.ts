@@ -82,7 +82,7 @@ text: "I share honest reflections on my social work journey – from university 
     },
     subscribe: {
         enabled: true,
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to My Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         form: {
             action: '#'
