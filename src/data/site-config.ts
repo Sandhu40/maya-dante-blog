@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi, I'm Maya – a Social Worker!',
+        title: "Hi, I'm Maya – a Social Worker!",
         text: "I write about my studies, ASYE, and life in practice.",
         image: {
             src: hero,
